@@ -24,3 +24,8 @@ body {
     justify-content: center;
 }
 
+
+.hidden{
+    display: none;
+}
+

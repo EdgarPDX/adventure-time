@@ -1,0 +1,17 @@
+input:checked + img{
+    border: solid yellow 2px;
+}
+
+.input{
+    display: none;
+}
+
+img{
+    width: 320px;
+    height: 320px;
+}
+
+form{
+    display: flexbox;
+    justify-self: center;
+}
